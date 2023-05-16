@@ -13,5 +13,3 @@ elif voto == '40':
     print('Você votou em Mash.')
 else:
     print('Voto nulo!')
-
-
