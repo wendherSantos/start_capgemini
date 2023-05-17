@@ -14,3 +14,6 @@ print(f'A média da turma é {media:.2f}.')
 for i in range(numero_alunos):
     if notas[i] > media:
         print(f'Parabéns {nomes[i]}!')
+
+print(nomes)
+print(notas)

@@ -12,3 +12,7 @@ for i in nomes:
         break
 else:
     print('\nNome não encontrado!')
+
+nomes_invertido = nomes[::-1]
+print(nomes_invertido)
+print(nomes)
