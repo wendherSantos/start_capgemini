@@ -1,6 +1,6 @@
 {
     "java.project.sourcePaths": [
-        "logica_de_programacao_e_algoritmos_3/primeiro_projeto/src",
-        "logica_de_programacao_e_algoritmos_3_java/app/src/main/java/java"
+        "logica_de_programacao_e_algoritmos_3_java/app/src/main/java/java",
+        "logica_de_programacao_3_java/app/src/main/java/aulas/aula4"
     ]
 }
